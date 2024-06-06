@@ -1,8 +1,6 @@
 // =====================================================================
 //  Filename:    camshift_tracking.cpp
-//
 //  Description: Recognizes regions of text in a given image
-//
 //  Usage: ./camshift_tracking
 //         or
 //         ./camshift_tracking --video test.mov
